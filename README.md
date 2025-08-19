@@ -4,10 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Software%20Engineer-@%20Tech%20Mahindra&width=700&height=120" alt="Software Engineer @ Tech Mahindra"/>
-</p>
-
-<p align="center">
 <span style="color:#2ECC71; font-family:Georgia, serif;"><br> 💻 Software Engineer @ Tech Mahindra | Open Source Enthusiast 
 </span><br>
 🌱 Passionate about building impactful applications and solving real-world problems  
