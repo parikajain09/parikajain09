@@ -4,6 +4,7 @@
 
 <p align="center" <span style="color:#2ECC71; font-family:Georgia, serif;">
 💻 Software Engineer @ Tech Mahindra | Open Source Enthusiast 
+</span>
 </p>
 <p>
 🌱 Passionate about building impactful applications and solving real-world problems  
