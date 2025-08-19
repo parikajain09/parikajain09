@@ -1,8 +1,10 @@
-## 👋 Hi, I'm Parika Jain  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=600&center=true&vCenter=true&width=700&repeat=false&lines=Hi;Hi+I;Hi+I+am;Hi+I+am+Parika+Jain+👋)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
 
-💻 Software Engineer | React & Java Developer | Open Source Enthusiast  
+<p align="center">
+💻 Software Engineer @ Tech Mahindra | React & Java Developer | Open Source Enthusiast  
+</p>
 🌱 Passionate about building impactful applications and solving real-world problems  
 
 ---
@@ -34,8 +36,8 @@
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/parika-jain-abb5621b9 
+- 📧 Email: jainparika26@gmail.com  
 
 ---
 
