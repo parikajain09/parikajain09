@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
 
-<p align="center"> 
-<span style="color:#2ECC71; font-family:Georgia, serif;">
-💻 Software Engineer @ Tech Mahindra | Open Source Enthusiast 
+<p align="center"> 💻
+<span style="color:#2ECC71; font-family:Georgia, serif;"> Software Engineer @ Tech Mahindra | Open Source Enthusiast 
 </span>
 🌱 Passionate about building impactful applications and solving real-world problems  
 </p>
