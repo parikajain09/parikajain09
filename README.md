@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=400&pause=200&color=2ECC71&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=700&pause=200&color=2ECC71&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer%20@%20Tech%20Mahindra-FF5733?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Software Engineer @ Tech Mahindra"/>
+  <img src="https://img.shields.io/badge/Software%40Engineer%40@%40Tech%40Mahindra-2ECC71?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Software Engineer @ Tech Mahindra"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
