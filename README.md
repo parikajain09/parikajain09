@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=400&pause=200&color=2ECC71&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=400&pause=200&color=2ECC71&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain)](https://git.io/typing-svg)
 
 
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Software%20Engineer%20%40%20Tech%20Mahindra&width=900&height=120" alt="Software Engineer @ Tech Mahindra"/>
+</p>
 
 <p align="center">
 <span style="color:#2ECC71; font-family:Georgia, serif;"><br> 💻 Software Engineer @ Tech Mahindra | Open Source Enthusiast 
