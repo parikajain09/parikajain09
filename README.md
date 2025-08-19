@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=700&pause=200&color=2ECC71&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain.)](https://git.io/typing-svg)
 
 
-<p align="center";style="color:#2ECC71; font-family:Georgia, serif;"><br> 💻 Software Engineer @ Tech Mahindra 🌐 Open Source Enthusiast><br>
+<p align="center";style="color:#2ECC71; font-family:Georgia, serif;">💻 Software Engineer @ Tech Mahindra 🌐 Open Source Enthusiast<br>
 🌱 Passionate about building impactful applications and solving real-world problems  
 </p>
 
