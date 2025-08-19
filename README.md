@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=600&center=true&vCenter=true&width=700&repeat=false&lines=Hi;Hi+I;Hi+I+am;Hi+I+am+Parika+Jain+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=400&pause=200&center=true&vCenter=true&width=700&repeat=false&lines=Hi,;Hi,+I;Hi,+I+am;Hi,+I+am+Parika+Jain+👋)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
 
