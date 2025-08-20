@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=TimesNewRoman+Code&size=28&duration=700&pause=200&color=2ECC71&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=700&pause=200&color=FFFF00&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain.)](https://git.io/typing-svg)
 
 
 <p align="center";style="color:blue; font-family:Georgia, serif;">💻 Software Engineer @ Tech Mahindra 🌐 Open Source Enthusiast<br>
