@@ -5,8 +5,7 @@
 </p>
 
 <p align="center";style="color:blue; font-family:Georgia, serif;">
-💻 Software Engineer @ Tech Mahindra <br>
-🌐 Open Source Enthusiast<br>
+💻 Software Engineer @ Tech Mahindra 🌐 Open Source Enthusiast<br>
 🌱 Passionate about building impactful applications and solving real-world problems.
 </p>
 
