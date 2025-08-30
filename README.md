@@ -1,5 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=blue&style=flat-square)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Parika+Jain;Software+Engineer+%40+Tech+Mahindra;Aspiring+FAANG+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=700&pause=200&color=FFFF00&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain.)](https://git.io/typing-svg)
 
 
