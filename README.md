@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=green&style=flat-square)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:006400&height=120&section=header&text=Parika%20Jain%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=700&pause=200&color=FFFF00&center=true&vCenter=true&repeat=false&width=800&lines=👋+Hi,+I'm+Parika+Jain.)](https://git.io/typing-svg)
 
