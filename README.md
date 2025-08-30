@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=parikajain09&color=green&style=flat-square)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:006400&height=120&section=header&text=Parika%20Jain%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:006400&height=120&section=header&text=Hi,%20I'm%20Parika%20Jain%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 
