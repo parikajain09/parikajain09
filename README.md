@@ -46,5 +46,5 @@
 - 📧 Email: jainparika26@gmail.com  
 
 
-⭐️ *"Code. Learn. Share. Repeat."*
+⭐️ "Code. Learn. Share. Repeat."
 
